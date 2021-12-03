@@ -1,14 +1,5 @@
-Data/2019/*02.sqlite
-Data/2019/*03.sqlite
-Data/2019/*04.sqlite
-Data/2019/*05.sqlite
-Data/2019/*06.sqlite
-Data/2019/*07.sqlite
-Data/2019/*08.sqlite
-Data/2019/*09.sqlite
-Data/2019/*10.sqlite
-Data/2019/*11.sqlite
-Data/2019/*12.sqlite
+
+Data/2019/*.sqlite
 .venv/
 .ipynb_checkpoints/
 Data/taxi_zones/*
