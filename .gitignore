@@ -1,4 +1,5 @@
 Data/2019/*.sqlite
+Data/*.parquet
 Data/taxi_zones/*
 Data/taxi_zone_lookup.csv
 .ipynb_checkpoints/
