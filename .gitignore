@@ -1,6 +1,4 @@
-
 Data/2019/*.sqlite
-.venv/
-.ipynb_checkpoints/
 Data/taxi_zones/*
 Data/taxi_zone_lookup.csv
+.ipynb_checkpoints/
